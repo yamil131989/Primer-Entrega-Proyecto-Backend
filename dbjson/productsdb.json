@@ -1,0 +1,58 @@
+[
+	{
+		"title": "producto 1",
+		"description": "descripcion del producto 1",
+		"code": "abc123",
+		"price": 7000,
+		"status": true,
+		"stock": 70,
+		"thumbnails": [
+			"./src/public/img/prod1/Image1.png",
+			"./src/public/img/prod1/Image2.png",
+			"./src/public/img/prod1/Image3.png"
+		],
+		"id": 1
+	},
+	{
+		"title": "producto 2",
+		"description": "descripcion del producto 2",
+		"code": "bcd123",
+		"price": 27000,
+		"status": true,
+		"stock": 170,
+		"thumbnails": [
+			"./src/public/img/prod2/Image1.png",
+			"./src/public/img/prod2/Image2.png",
+			"./src/public/img/prod2/Image3.png"
+		],
+		"id": 2
+	},
+	{
+		"title": "producto 3",
+		"description": "descripcion del producto 3",
+		"code": "cde123",
+		"price": 5000,
+		"status": true,
+		"stock": 20,
+		"thumbnails": [
+			"./src/public/img/prod3/Image1.png",
+			"./src/public/img/prod3/Image2.png",
+			"./src/public/img/prod3/Image3.png"
+		],
+		"id": 3
+	},
+	{
+		"title": "producto ",
+		"description": "descripcion del producto",
+		"code": "qwerty123",
+		"price": 77000,
+		"status": true,
+		"stock": 170,
+		"thumbnails": [
+			"./src/public/img/prod1/Image1.png",
+			"./src/public/img/prod1/Image2.png",
+			"./src/public/img/prod1/Image3.png"
+		],
+		"id": 4
+	}
+]
